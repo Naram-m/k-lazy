@@ -45,6 +45,8 @@ klazy_src/
 ├── worst_case/           # Adversarial lower-bound construction
 │   ├── analogous structure to `stochastic/`
 │
+├── sader-k/              # Meta-learning experiments (SADER vs SADER-K)
+│
 ├── sequence_plotting_corr.py   # Generates sequence visualization for corrupted example (Appendix Fig. 5)
 └── sequence_plotting_stoch.py  # Generates sequence visualization for stochastic example (Appendix Fig. 3)
 ```
